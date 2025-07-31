@@ -93,7 +93,7 @@ const About = () => {
               <div className="space-y-2 text-gray-300">
                 <div>
                   <h4 className="font-semibold">
-                    Internship at Example GmbH (2025)
+                    Internship at Example GmbH (2025) (fakedata...)
                   </h4>
                   <p>
                     Assist in Building frontend components and integrating REST
