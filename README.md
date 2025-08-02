@@ -1,7 +1,5 @@
 # Portfolio Website
-
-
-(![portfolio](https://github.com/user-attachments/assets/845f368c-8bd3-479d-9f3a-081c54ad1a5f))
+![portfolio](https://github.com/user-attachments/assets/845f368c-8bd3-479d-9f3a-081c54ad1a5f)
 A modern, responsive portfolio website built with React and Tailwind CSS to showcase my projects, skills, and experience.
 <hr/>
 ## 🚀 Live Demo
