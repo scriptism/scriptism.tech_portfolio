@@ -11,6 +11,11 @@ A modern, responsive portfolio website built with React and Tailwind CSS to show
 <a href="https://scriptism.github.io/scriptism.tech_portfolio/" target="_blank">View Live Demo</a> <!-- Replace with your actual URL -->
 This is my website in github README file.
 
+## 🚀 Live Demo
+
+https://scriptism.github.io/scriptism.tech_portfolio/
+This is my website in GitHub README file.
+
 ## 🛠️ Technologies Used
 
 - **Frontend**: React.js
