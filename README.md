@@ -13,8 +13,9 @@ This is my website in github README file.
 
 ## 🚀 Live Demo
 
-https://scriptism.github.io/scriptism.tech_portfolio/
-This is my website in GitHub README file.
+[View Live Demo ↗][demo]
+
+[demo]: https://scriptism.github.io/scriptism.tech_portfolio/
 
 ## 🛠️ Technologies Used
 
