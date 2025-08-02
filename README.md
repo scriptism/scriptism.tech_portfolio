@@ -1,12 +1,34 @@
-# React + Vite
+# Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Portfolio Screenshot](./public/screenshot.png) <!-- Replace with your actual image path -->
 
-Currently, two official plugins are available:
+A modern, responsive portfolio website built with React and Tailwind CSS to showcase my projects, skills, and experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## Expanding the ESLint configuration
+[View Live Demo](https://your-portfolio-url.com) <!-- Replace with your actual URL -->
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+- Responsive design (mobile, tablet, desktop)
+- Clean, modern UI with smooth animations
+- Project showcase section
+- Skills/technologies section
+- Contact form or information
+- Dark/light mode (if applicable)
+
+## 🛠️ Technologies Used
+
+- **Frontend**: React.js
+- **Styling**: Tailwind CSS
+- **Icons**: React Icons or similar (if used)
+- **Animation**: Framer Motion or similar (if used)
+- **Build Tool**: Vite or Create React App
+
+## 📦 Installation
+
+To run this project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-repo.git
