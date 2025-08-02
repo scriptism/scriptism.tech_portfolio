@@ -1,15 +1,11 @@
 # Portfolio Website
-
-
-
-
-![Portfolio Screenshot]![portfolio](https://github.com/user-attachments/assets/d360b02a-23a0-4691-8bef-7fed1a064e51)
+[portfolio](https://github.com/user-attachments/assets/d360b02a-23a0-4691-8bef-7fed1a064e51)
 
 A modern, responsive portfolio website built with React and Tailwind CSS to showcase my projects, skills, and experience.
-
+<hr/>
 ## 🚀 Live Demo
 
-[View Live Demo](https://your-portfolio-url.com) <!-- Replace with your actual URL -->
+[View Live Demo](https://scriptism.github.io/scriptism.tech_portfolio/) <!-- Replace with your actual URL -->
 
 ## ✨ Features
 
