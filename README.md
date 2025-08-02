@@ -1,6 +1,9 @@
 # Portfolio Website
 
-![Portfolio Screenshot](./public/screenshot.png) <!-- Replace with your actual image path -->
+
+
+
+![Portfolio Screenshot]![portfolio](https://github.com/user-attachments/assets/d360b02a-23a0-4691-8bef-7fed1a064e51)
 
 A modern, responsive portfolio website built with React and Tailwind CSS to showcase my projects, skills, and experience.
 
