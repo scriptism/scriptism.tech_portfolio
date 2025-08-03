@@ -4,7 +4,7 @@ A modern, responsive portfolio website built with React and Tailwind CSS to show
 <hr/>
 
 [View Live Demo]: 
-<a href="https://scriptism.github.io/scriptism.tech_portfolio/" target="_blank"><img src="https://img.shields.io/badge/-My%20Portfolio-blue"></a> 
+<a href="https://scriptism.github.io/scriptism.tech_portfolio/" target="_blank"><img src="https://img.shields.io/badge/-View%20Live-Demo-blue"></a> 
 
 ## 🛠️ Technologies Used
 
