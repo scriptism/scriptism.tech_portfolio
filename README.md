@@ -1,6 +1,10 @@
-# scriptism
-# Portfolio Website
-<img src="https://github.com/user-attachments/assets/845f368c-8bd3-479d-9f3a-081c54ad1a5f" width="400">
+<h1 align="center">Hi 👋, This is my Portfolio Website</h1>
+<h3 align="center">I love Coding and web development: I live in Germany</h3>
+<br/>
+<div align="center">
+  | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |:---: | :---: | :---: |:---: | :---: | :---: |:---: | :---: |:---: | :---: |
+   <img src="https://github.com/user-attachments/assets/845f368c-8bd3-479d-9f3a-081c54ad1a5f" width="400">
+</div>
 <br/>
 A modern, responsive portfolio website built with React and Tailwind CSS to showcase my projects, skills, and experience.
 <hr/>
