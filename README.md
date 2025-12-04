@@ -22,8 +22,6 @@
 
 ## 📦 Installation
 
-To run this project locally:
-
-1. Clone the repository:
+To run this project locally, clone the repository:
    ```bash
    git clone https://github.com/scriptism/scriptism.tech_portfolio.git
